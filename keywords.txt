@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BlinkingLed	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+blinkStart_T	KEYWORD2	
+blinkStart_F	KEYWORD2	
+blinkStop		KEYWORD2
+
+set      		KEYWORD2
+on				KEYWORD2
+off   			KEYWORD2
+toggle   		KEYWORD2
+getVal			KEYWORD2
+getBlink		KEYWORD2
+
+
+######################################
+# Constants (LITERAL1)
+######################################
+
