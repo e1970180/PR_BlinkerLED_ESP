@@ -1,5 +1,5 @@
 
-#include "PR_BlinkerLED_ESP.hpp"		//ver 0.3.0
+#include "PR_ESP8266_Blinker.hpp"		//ver 0.3.0
 
 BlinkingLed		led(LED_BUILTIN, HIGH);          
             
